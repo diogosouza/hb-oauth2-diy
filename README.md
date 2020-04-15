@@ -1,4 +1,4 @@
-# README
+# hb-oauth2-diy
 
 Honeybadger's OAuth2 source code for Ruby and Rails project with Devise and [oauth-plugin](https://github.com/pelle/oauth-plugin).
 
